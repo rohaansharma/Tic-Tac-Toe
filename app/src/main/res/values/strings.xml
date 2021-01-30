@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Tic Tac Toe</string>
+    <string name="tic_tac_toe_board">board</string>
+    <string name="zero_1">zero-1</string>
+    <string name="zero_2">zero-2</string>
+    <string name="zero_3">zero-3</string>
+    <string name="zero_4">zero-4</string>
+    <string name="zero_5">zero-5</string>
+    <string name="zero_6">zero-6</string>
+    <string name="zero_7">zero-7</string>
+    <string name="zero_8">zero-8</string>
+    <string name="zero_9">zero-9</string>
+</resources>
