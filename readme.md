@@ -1,6 +1,6 @@
 # Android 101
 
-##Tic Tac Toe Game
+## Tic Tac Toe Game
 
 -Created a simple tic tac toe game for android
 
